@@ -1,1 +1,1 @@
-Repositorio para mis proyectos sobre videojuegos en c++
+Mi primer videojuego completito en c++ (videojuego del primer ciclo)
